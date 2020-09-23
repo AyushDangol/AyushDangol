@@ -46,7 +46,7 @@
 
 ##
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends,</b> so if you want to say <b>hi, I'll be happy to talk to you!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Feel free to hit me up,</b> I am always up for <b>Making new friends and collaboration!</b>😊❤️ </em>
 <br />
 <br />
 

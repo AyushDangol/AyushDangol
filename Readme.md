@@ -1,6 +1,6 @@
 ### Hi there, I'm [Ayush][website] 👋
 
-<a href="https://www.linkedin.com/in/rsnpj/"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue.svg?style=for-the-badge&logo=LinkedIn"></a>
+<a href="https://www.linkedin.com/in/ayush-dangol-39571218a/"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue.svg?style=for-the-badge&logo=LinkedIn"></a>
 
 ## I'm a Front-End Developer, Graphic Designer, Teacher and Learner!
 
@@ -50,8 +50,10 @@
 
 <br />
 
-<div><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"></div>
+<div style="display:flex;">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <em><b>Feel free to hit me up,</b> I am always up for <b>Making new friends and collaboration!</b>😊❤️ </em>
+</div>
 <br />
 <br />
 

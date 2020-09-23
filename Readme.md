@@ -1,5 +1,7 @@
 ### Hi there, I'm [Ayush][website] 👋
 
+<a href="https://www.linkedin.com/in/rsnpj/"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue.svg?style=for-the-badge&logo=LinkedIn"></a>
+
 ## I'm a Front-End Developer, Graphic Designer, Teacher and Learner!
 
 <br />

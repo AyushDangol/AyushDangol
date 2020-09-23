@@ -8,6 +8,11 @@
 -   🥅 2020 Goals: Learn React and Vue
 -   ⚡ Fun fact: I love to Eat, Sleep, Dev & Repeat
 
+<br />
+<br />
+
+---
+
 ### Connect with me:
 
 [<img align="left" alt="ayushdongol.com.np" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]

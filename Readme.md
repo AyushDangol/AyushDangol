@@ -15,8 +15,6 @@
 
 ### Connect with me:
 
-<br/>
-
 [<img align="left" alt="ayushdongol.com.np" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Ayush" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/behance.svg" />][behance]
 [<img align="left" alt="Ayush" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/dribbble.svg" />][dribble]
@@ -29,7 +27,6 @@
 
 ### Languages and Tools:
 
-<br/>
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />

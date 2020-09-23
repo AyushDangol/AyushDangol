@@ -1,6 +1,6 @@
 ### Hi there, I'm [Ayush][website] 👋
 
-## I'm a Front-End Developer, a Graphic Designer, a Teacher and a Learner!
+## I'm a Front-End Developer, Graphic Designer, Teacher and Learner!
 
 -   🔭 I’m currently working with the UI/UX team at Infodevlopers Pvt. Ltd. !
 -   🌱 I’m currently learning how to be cool 🤣
@@ -10,7 +10,7 @@
 
 <br />
 
----
+--
 
 ### Connect with me:
 

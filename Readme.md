@@ -53,7 +53,6 @@
 <em><b>Feel free to hit me up,</b> I am always up for <b>Making new friends and collaboration!</b>😊❤️ </em>
 
 <br />
-<br />
 
 [website]: http://ayushdongol.com.np/
 [facebook]: https://www.facebook.com/ayush.dangol.58/

@@ -1,4 +1,4 @@
-### Hi there, I'm [Ayush Dangol] [website] 👋
+### Hi there, I'm [Ayush][website] 👋
 
 ## I'm a Front-End Developer, UI/UX Designer, Graphic Designer, Teacher and a Learner!
 

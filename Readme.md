@@ -1,13 +1,14 @@
 ### Hi there, I'm [Ayush][website] 👋
 
-## I'm a Front-End Developer, UI/UX Designer, Graphic Designer, Teacher and a Learner!
+## I'm a Front-End Developer, a Graphic Designer, a Teacher and a Learner!
 
 -   🔭 I’m currently working with the UI/UX team at Infodevlopers Pvt. Ltd. !
 -   🌱 I’m currently learning how to be cool 🤣
 -   👯 I’m looking to collaborate with other developers and designers.
 -   🥅 2020 Goals: Learn React and Vue
 -   ⚡ Fun fact: I love to Eat, Sleep, Dev & Repeat
-    <br />
+
+<br />
 
 ---
 

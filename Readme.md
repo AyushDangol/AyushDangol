@@ -8,9 +8,6 @@
 -   🥅 2020 Goals: Learn React and Vue
 -   ⚡ Fun fact: I love to Eat, Sleep, Dev & Repeat
 
-<br />
-<br />
-
 ---
 
 ### Connect with me:

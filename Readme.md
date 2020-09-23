@@ -2,6 +2,8 @@
 
 ## I'm a Front-End Developer, Graphic Designer, Teacher and Learner!
 
+<br />
+
 -   🔭 I’m currently working with the UI/UX team at Infodevlopers Pvt. Ltd. !
 -   🌱 I’m currently learning how to be cool 🤣
 -   👯 I’m looking to collaborate with other developers and designers.

@@ -9,8 +9,7 @@
 -   👯 I’m looking to collaborate with other developers and designers.
 -   🥅 2020 Goals: Learn React and Vue
 -   ⚡ Fun fact: I love to Eat, Sleep, Dev & Repeat
-
-<br />
+    <br />
 
 ##
 
@@ -25,6 +24,8 @@
 [<img align="left" alt="Ayush | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+##
 
 ### Languages and Tools:
 

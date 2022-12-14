@@ -9,7 +9,7 @@
 -   🔭 I’m currently working with the UI/UX team at Infodevlopers Pvt. Ltd. !
 -   🌱 I’m currently learning how to be cool 🤣
 -   👯 I’m looking to collaborate with other developers and designers.
--   🥅 2020 Goals: Learn React and Vue
+-   🥅 2022 Goals: Learn Astro JS
 -   ⚡ Fun fact: I love to Eat, Sleep, Dev & Repeat
     <br />
 
